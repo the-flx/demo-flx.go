@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Golang Version](https://img.shields.io/badge/Golang-1.23.0+-79D4FD.svg?logo=go)](https://go.dev/)
+[![Go Version](https://img.shields.io/badge/Go-1.23.0+-79D4FD.svg?logo=go)](https://go.dev/)
 
 # demo-flx.go
 > Demo to use flx.go
